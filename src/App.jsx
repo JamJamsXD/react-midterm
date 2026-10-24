@@ -8,7 +8,7 @@ export default function App() {
     <main style={{ padding: "2rem", fontFamily: "Arial" }}>
       <h1>Midterm Calculator</h1>
       <p>Student: James Mykel Ramos</p>
-      <p>Application Version: 1.5</p>
+      <p>Application Version: 2</p>
       <div>
         <label>
           First number:
